@@ -1,0 +1,2 @@
+INTRODUCTION:
+     This program can be used to conduct an quiz competition and see the winners right away. The highest score is shown at the end of the competition and the ratings are also provided out of five stars. 
