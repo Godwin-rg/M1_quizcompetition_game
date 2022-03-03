@@ -1,8 +1,7 @@
 # M1_quizcompetition_game
 This is my miniproject which conducts a quiz competition.
 
-#Code quality score
-https://api.codiga.io/project/31528/score/svg
-
-#Code grade
+Code quality score
+[![Code Quality Score](https://api.codiga.io/project/31528/score/svg)](https://app.codiga.io/project/31528/preferences)
+Code grade
 https://api.codiga.io/project/31528/status/svg
